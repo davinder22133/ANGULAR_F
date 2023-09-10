@@ -1,0 +1,29 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+    /* background-image: url("https://media.istockphoto.com/id/864477890/photo/light-blue-color-frosted-glass-texture-background.webp?b=1&s=170667a&w=0&k=20&c=5igHBcwn0ZGB_w_5JDEdEDSyX105_2fURR4yevsFGTk=");
+    background-size: cover;
+    background-repeat: no-repeat; */
+}
+html{
+    min-height: 100vh;
+}
+body{
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+   min-height: 100vh; */
+}
+
+
+.login-register{
+  
+      display: flex;
+      flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   min-height: 100vh;
+}
